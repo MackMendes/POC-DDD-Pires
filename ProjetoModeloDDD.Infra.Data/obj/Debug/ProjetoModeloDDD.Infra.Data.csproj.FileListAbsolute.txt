@@ -1,0 +1,12 @@
+E:\Treinamento\EduardoPires\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Debug\ProjetoModeloDDD.Infra.Data.dll.config
+E:\Treinamento\EduardoPires\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Debug\ProjetoModeloDDD.Infra.Data.dll
+E:\Treinamento\EduardoPires\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Debug\ProjetoModeloDDD.Infra.Data.pdb
+E:\Treinamento\EduardoPires\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Debug\EntityFramework.dll
+E:\Treinamento\EduardoPires\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Debug\EntityFramework.SqlServer.dll
+E:\Treinamento\EduardoPires\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Debug\ProjetoModeloDDD.Domain.dll
+E:\Treinamento\EduardoPires\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Debug\ProjetoModeloDDD.Domain.pdb
+E:\Treinamento\EduardoPires\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Debug\EntityFramework.xml
+E:\Treinamento\EduardoPires\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\bin\Debug\EntityFramework.SqlServer.xml
+E:\Treinamento\EduardoPires\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\obj\Debug\ProjetoModeloDDD.Infra.Data.csprojResolveAssemblyReference.cache
+E:\Treinamento\EduardoPires\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\obj\Debug\ProjetoModeloDDD.Infra.Data.dll
+E:\Treinamento\EduardoPires\ProjetoModeloDDD\ProjetoModeloDDD.Infra.Data\obj\Debug\ProjetoModeloDDD.Infra.Data.pdb

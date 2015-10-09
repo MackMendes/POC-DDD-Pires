@@ -1,0 +1,4 @@
+E:\Treinamento\EduardoPires\ProjetoModeloDDD\ProjetoModeloDDD.Domain\bin\Debug\ProjetoModeloDDD.Domain.dll
+E:\Treinamento\EduardoPires\ProjetoModeloDDD\ProjetoModeloDDD.Domain\bin\Debug\ProjetoModeloDDD.Domain.pdb
+E:\Treinamento\EduardoPires\ProjetoModeloDDD\ProjetoModeloDDD.Domain\obj\Debug\ProjetoModeloDDD.Domain.dll
+E:\Treinamento\EduardoPires\ProjetoModeloDDD\ProjetoModeloDDD.Domain\obj\Debug\ProjetoModeloDDD.Domain.pdb

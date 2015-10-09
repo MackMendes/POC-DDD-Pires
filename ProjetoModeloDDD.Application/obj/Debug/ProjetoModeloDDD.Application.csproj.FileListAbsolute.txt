@@ -1,0 +1,7 @@
+E:\Treinamento\EduardoPires\ProjetoModeloDDD\ProjetoModeloDDD.Application\bin\Debug\ProjetoModeloDDD.Application.dll
+E:\Treinamento\EduardoPires\ProjetoModeloDDD\ProjetoModeloDDD.Application\bin\Debug\ProjetoModeloDDD.Application.pdb
+E:\Treinamento\EduardoPires\ProjetoModeloDDD\ProjetoModeloDDD.Application\obj\Debug\ProjetoModeloDDD.Application.csprojResolveAssemblyReference.cache
+E:\Treinamento\EduardoPires\ProjetoModeloDDD\ProjetoModeloDDD.Application\obj\Debug\ProjetoModeloDDD.Application.dll
+E:\Treinamento\EduardoPires\ProjetoModeloDDD\ProjetoModeloDDD.Application\obj\Debug\ProjetoModeloDDD.Application.pdb
+E:\Treinamento\EduardoPires\ProjetoModeloDDD\ProjetoModeloDDD.Application\bin\Debug\ProjetoModeloDDD.Domain.dll
+E:\Treinamento\EduardoPires\ProjetoModeloDDD\ProjetoModeloDDD.Application\bin\Debug\ProjetoModeloDDD.Domain.pdb
